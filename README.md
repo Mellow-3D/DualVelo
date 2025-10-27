@@ -8,6 +8,14 @@ Filament will marge inside hotend.
 rotation_distance: 23.24  
 gear_ratio: 30:10  
 
+#3D model
+Extruder  
+<img width="1242" height="982" alt="image" src="https://github.com/user-attachments/assets/452aa936-7f98-4261-8ff6-07ee6610158c" />  
+Hotend  
+<img width="1185" height="851" alt="image" src="https://github.com/user-attachments/assets/29c39c29-f079-4519-a93a-a2f618889ed7" />
+
+
+
 # Where to purchace
 AliExpress
 https://s.click.aliexpress.com/e/_c3YGF7Ht  
